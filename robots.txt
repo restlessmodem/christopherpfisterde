@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /en.html
+Disallow: /de.html
